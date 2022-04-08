@@ -44,7 +44,7 @@ ul {
 
 a {
     text-decoration: none;
-    color: inherit;
+    color: inherit !important;
     display: inline-block;
     /* Convierte en bloque la línea */
 }
@@ -76,7 +76,9 @@ h3 {
     margin-top: 2em;
 }
 
-
+.whatsapp {
+    color: #fff !important;
+}
 
 .title {
     color: var(--primary);
