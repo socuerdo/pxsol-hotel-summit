@@ -30,6 +30,7 @@ html {
     font-family: var(--font-primary);
     font-size: 62.5%;
     color: #222;
+    background-color: var(--gray);
 }
 
 p {
@@ -630,7 +631,7 @@ a:active {
     text-decoration: none;
 }
 
-footer {
+.sectionFooter {
     align-items: center;
     background-color: var(--black);
     padding: 5rem;
